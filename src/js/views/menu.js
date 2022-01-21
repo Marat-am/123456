@@ -59,5 +59,5 @@ export const renderMenuPage = () => {
             </div>
         </div>
     </div> `
-    document.querySelector(".container").innerHTML += wrapper;
+    document.querySelector(".container1").innerHTML = wrapper;
 }
